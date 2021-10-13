@@ -4,5 +4,4 @@
 #
 
 import pandas as pd
-print(pd._version)
 import numpy as np
